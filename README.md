@@ -42,3 +42,22 @@ Methods '__ str __', '__ init __', 'contains'.
 ![Screenshot from 2022-03-10 23-35-44](https://user-images.githubusercontent.com/92577132/157741087-7cac3a9d-473e-454e-8ee0-97c81f86101d.png)
 
 
+__lab7__
+
+                                                    **Description:**
+
+The logistic system for orders of different users with help of classes. Simmilar to work of post offices) The number of order is formed automatically started from 1000. Also, I didn't use number of postoffice while launch my program.
+                                                    
+                                                          **Usage:**
+                                                          
+ Here is examples of my program:
+ 
+ ![Screenshot from 2022-03-11 01-05-01](https://user-images.githubusercontent.com/92577132/157755333-b3fc1f15-b06d-436c-b178-3b62204476a9.png)
+ 
+ ![Screenshot from 2022-03-11 01-12-06](https://user-images.githubusercontent.com/92577132/157756054-134bb126-21ee-4ba1-b0d3-bed0046d903d.png)
+ 
+ ![Screenshot from 2022-03-11 01-15-18](https://user-images.githubusercontent.com/92577132/157756075-b40f075f-c031-43ed-960e-8cb24a793d2a.png)
+ 
+ 
+
+
