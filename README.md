@@ -47,6 +47,10 @@ __lab7__
                                                     **Description:**
 
 The logistic system for orders of different users with help of classes. Simmilar to work of post offices) The number of order is formed automatically started from 1000. Also, I didn't use number of postoffice while launch my program.
+
+UML for this program:
+![Screenshot from 2022-03-11 16-12-43](https://user-images.githubusercontent.com/92577132/157864883-374f6dbd-4051-4541-98f1-24b8480535ba.png)
+
                                                     
                                                           **Usage:**
                                                           
