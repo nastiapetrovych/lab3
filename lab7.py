@@ -132,7 +132,6 @@ class LogisticSystem:
         if not isOrderFound:
             print('No such order')
 
-
 # vehicles = [Vehicle(1), Vehicle(2)]
 # logSystem = LogisticSystem(vehicles)
 # my_items2 = [Item('flowers',11), Item('shoes',153), Item('helicopter',0.33)]
